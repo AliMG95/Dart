@@ -68,5 +68,5 @@ print("==============Task 1================");
   BankAccount account = BankAccount();
   account.deposit = 500;
   print("Balance: ${account.balance}");
-  account.deposit = -100; // Invalid deposit
+  account.deposit = -100; 
 }
